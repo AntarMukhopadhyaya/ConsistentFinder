@@ -1,2 +1,3 @@
 # ConsistentFinder
 These Script will help in finding whether a polynomial is consistent or not . Simply put the values of a1,a2,b1,b2,c1,c2 and it will do the calculation for you and tell you the results
+Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task. Programming involves tasks such as: analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language (commonly referred to as coding).[1][2] The source code of a program is written in one or more languages that are intelligible to programmers, 
